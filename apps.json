@@ -1,0 +1,19 @@
+{
+  "name": "Photonious Source",
+  "identifier": "com.photonious.source",
+  "apps": [
+    {
+      "name": "uYou Enhanced",
+      "bundleIdentifier": "com.photonious.uYouEnhanced",
+      "developerName": "Photonious",
+      "version": "18.29.3-4.3.3",
+      "versionDate": "2025-06-29T12:00:00Z",
+      "versionDescription": "- YouTube v18.29.3 with uYouPlus v4.3.3 enhancements.",
+      "downloadURL": "https://github.com/Photonious/uYouEnhanced/releases/download/v18.29.3-4.3.3/uYouEnhanced_18.29.3-4.3.3.ipa",
+      "iconURL": "https://github.com/Photonious/uYouEnhanced/raw/main/icon.png",
+      "tintColor": "FF0000",
+      "localizedDescription": "An enhanced version of YouTube with uYouPlus features.",
+      "screenshots": []
+    }
+  ]
+}
